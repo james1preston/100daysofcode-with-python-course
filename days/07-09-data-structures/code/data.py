@@ -1,4 +1,4 @@
-#!python3
+#!/anaconda3/bin/python3
 
 us_state_abbrev = {
     'Alabama': 'AL',

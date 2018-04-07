@@ -1,4 +1,4 @@
-#!python3
+#!/anaconda3/bin/python3
 #pull_xml.py uses the requests module to pull down the feed xml file for use in the xml parser script.
 #This will result in just one call/request to the Steam webserver hosting this XML file.
 

@@ -1,4 +1,4 @@
-#!python3
+#!/anaconda3/bin/python3
 #emailer.py is a simple script for sending emails using smtplib
 
 import smtplib

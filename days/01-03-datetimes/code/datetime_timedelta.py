@@ -1,4 +1,4 @@
-#!python3
+#!/anaconda3/bin/python3
 
 from datetime import datetime
 from datetime import timedelta
@@ -11,7 +11,7 @@ t.days
 t.seconds
 #36000
 
-t.hours
+#t.hours
 #Traceback (most recent call last):
     #File "<pyshell#119>", line 1, in <module> t.hours
 #AttributeError: 'datetime.timedelta' object has no attribute 'hours'
@@ -35,5 +35,5 @@ today
 today + eta
 #datetime.datetime(2018, 2, 19, 20, 55, 19, 197404)
 
-str(today + eta)
+print(str(today + eta))
 #'2018-02-19 20:55:19.197404'

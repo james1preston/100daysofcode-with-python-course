@@ -1,4 +1,4 @@
-#!python3
+#!/anaconda3/bin/python3
 
 numlist = [1, 2, 3, 4, 5]
 

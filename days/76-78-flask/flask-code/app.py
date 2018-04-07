@@ -1,4 +1,4 @@
-#!python3
+#!/anaconda3/bin/python3
 
 from flask import Flask, render_template
 from data import fave_beer
